@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 226b4d22dba02008f786ae4370e3487cb32d748b mumtaz <aremanzh@gmail.com> 1670234283 +0800	commit (initial): first init
+226b4d22dba02008f786ae4370e3487cb32d748b 0000000000000000000000000000000000000000 mumtaz <aremanzh@gmail.com> 1670234345 +0800	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 226b4d22dba02008f786ae4370e3487cb32d748b mumtaz <aremanzh@gmail.com> 1670234345 +0800	Branch: renamed refs/heads/master to refs/heads/main
+226b4d22dba02008f786ae4370e3487cb32d748b d1721db8c8e221a69109b5f22aed4ecd3a213dca mumtaz <aremanzh@gmail.com> 1670244325 +0800	commit: second commit
+d1721db8c8e221a69109b5f22aed4ecd3a213dca 46c1efc676889c15522af8356e567fcb648dc893 mumtaz <aremanzh@gmail.com> 1670417170 +0800	commit: renamed file type
+46c1efc676889c15522af8356e567fcb648dc893 10c33b00c6a5529c013a669c5046ff57142adff4 mumtaz <aremanzh@gmail.com> 1670579228 +0800	commit: back to basic
